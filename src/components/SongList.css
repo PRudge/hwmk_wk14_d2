@@ -1,6 +1,6 @@
 .top-twenty-results {
   display: grid;
   grid-template-columns: repeat(5, 12.500em);
-  grid-auto-rows: 18.5em;
+  grid-auto-rows: 25em;
   justify-content: center;
 }

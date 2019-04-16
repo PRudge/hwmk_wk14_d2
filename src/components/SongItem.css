@@ -5,7 +5,7 @@
   border: 1px solid lightgray;
   margin: 10px;
   padding: 0;
-  height:16em;
+  height:22em;
 }
 p {
   padding:0;
@@ -39,4 +39,10 @@ p {
   max-width: 3em; */
   overflow: hidden;
 
+}
+
+.audio {
+  padding-top: 10px;
+  width:11em;
+  /*overflow:hidden; */
 }
