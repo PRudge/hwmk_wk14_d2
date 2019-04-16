@@ -1,0 +1,42 @@
+.song-item-div {
+  grid-column: auto;
+  grid-column-gap: 3px;
+  background-color: f0f0f0;
+  border: 1px solid lightgray;
+  margin: 10px;
+  padding: 0;
+  height:18em;
+}
+p {
+  padding:0;
+  margin:0;
+}
+
+.position {
+ font-size:.8em;
+ font-weight: bold;
+ color: gray;
+ padding-left: .5em;
+}
+
+.song-title{
+  width: 250px;
+  overflow-x: auto;
+  float: left;
+  margin-right: 10px;
+}
+
+.artist{
+  font-size: .7em;
+  color:  #a3a3a0;
+  font-weight: bold;
+  padding-left: .5em;
+}
+
+.image{
+  margin: .2em; /* puts image in middle horizontally
+  /* max-height: 1.5em;
+  max-width: 3em; */
+  overflow: hidden;
+
+}
